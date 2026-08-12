@@ -1,2 +1,2 @@
 # ACMRecruitment-Repository
-Welcome to my repository for the ACM Recruitment Challenges! This repository contains my completed tasks, source code, and checkpoint submissions organized by questlines. Each directory corresponds to a specific challenge, showcasing my solutions, project documentation, and commit history for review.
+Hi,Welcome to my repository for the ACM Recruitment Challenges! This repository contains my completed tasks, source code, and checkpoint submissions organized by questlines. Each directory corresponds to a specific challenge, showcasing my solutions, project documentation, and commit history for review.
